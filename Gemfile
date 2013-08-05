@@ -11,4 +11,9 @@ group :development do
   gem "bundler", "~> 1.0.0"
   gem "jeweler", "~> 1.8.4"
   gem "rcov", ">= 0"
+  gem "jazz_hands"
 end
+
+gem 'httparty'
+gem 'redis'
+gem 'activemodel'
